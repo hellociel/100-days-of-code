@@ -10,6 +10,8 @@ Continuing with the airbnb clone project & personal website project.
 
 ### R1D2
 
+Working on the nav bar component of my personal website. Hoping to have it running before June.
+
 ### R1D3
 
 ### R1D4
