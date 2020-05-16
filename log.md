@@ -31,3 +31,18 @@ I'm aiming to have my app running by the end of this month.
 **Link to work:**
 
 [Personal Website](https://github.com/hellociel/hellociel.github.io)
+
+### Day 3: May 15, 2020
+
+**Today's Progress**:
+
+1. Reviewed Flexbox Froggy to apply them on my personal website.
+2. Added li elements to my nav bar items, restructuring my file tree to be more organized.
+
+**Thoughts:**
+
+Gotta chatch up on my work this weekend! :D
+
+**Link to work:**
+
+[Personal Website](https://github.com/hellociel/hellociel.github.io)
