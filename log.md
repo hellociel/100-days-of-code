@@ -46,3 +46,13 @@ Gotta chatch up on my work this weekend! :D
 **Link to work:**
 
 [Personal Website](https://github.com/hellociel/hellociel.github.io)
+
+### Day 4: May 16, 2020
+
+**Today's Progress**:
+
+1. Solved one easy leetcode problem and attempted on another easy one.
+
+**Thoughts:**
+
+Full day of coding tomorrow to catch up on my work! :D
