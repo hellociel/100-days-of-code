@@ -56,3 +56,15 @@ Gotta chatch up on my work this weekend! :D
 **Thoughts:**
 
 Full day of coding tomorrow to catch up on my work! :D
+
+### Day 5: May 17, 2020
+
+**Today's Progress**:
+
+- One easy #leetcode question to start the day.
+- More progress on my airbnb project.
+- Studied flexbox and styled-components.
+
+**Thoughts:**
+
+Overall a very productive day! 👩🏻‍💻
