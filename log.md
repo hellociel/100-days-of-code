@@ -68,3 +68,39 @@ Full day of coding tomorrow to catch up on my work! :D
 **Thoughts:**
 
 Overall a very productive day! 👩🏻‍💻
+
+### Day 6: May 18, 2020
+
+**Today's Progress**:
+
+- Made a small recipe generating app using react to solidify my understandings on React.
+- Tutorial Link : https://www.youtube.com/watch?v=U9T6YkEDkMo&t=1978s
+
+**Thoughts:**
+
+I want to try to do 2 easy leetcode problems tomorrow to make up for today.
+Will be more productive tomorrow now that my desktop is set up.
+
+### Day 7: May 19, 2020
+
+**Today's Progress**:
+
+- 1 Leetcode problem solved
+- Recreated the recipe app from yesterday's project from memory! Tomorrow I'm going to try again from scratch.
+- Tutorial Link : https://www.youtube.com/watch?v=U9T6YkEDkMo&t=1978s
+
+**Thoughts:**
+
+I'm gonna try again to make sure I understand and can utilized every line of code from the recipe app tomorrow. Today was not the most productive day but tomorrow I will make sure to focus more! :D
+
+### Day 8: May 20, 2020
+
+**Today's Progress**:
+
+- 1 Leetcode problem solved
+- Made another recipe app from memory but could not fix the CORS error. I will debug it tomorrow morning.
+- Tutorial Link : https://www.youtube.com/watch?v=U9T6YkEDkMo&t=1978s
+
+**Thoughts:**
+
+Overall I was able to recal 90% of the app from memory but I still have some gaps in memory for onSubmit/onChange event handlers. I hope to review them and fix the CORS error tomorrow.
