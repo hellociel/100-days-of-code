@@ -104,3 +104,14 @@ I'm gonna try again to make sure I understand and can utilized every line of cod
 **Thoughts:**
 
 Overall I was able to recal 90% of the app from memory but I still have some gaps in memory for onSubmit/onChange event handlers. I hope to review them and fix the CORS error tomorrow.
+
+### Day 9: May 20, 2020
+
+**Today's Progress**:
+
+- 1 Leetcode problem solved
+- Had to reseed my data for airbnb project
+
+**Thoughts:**
+
+I was not feeling well today so I was not able to be as productive as I wanted to. I will finish seeding the data and finish the components for airbnb tomorrow.
