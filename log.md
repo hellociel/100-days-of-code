@@ -115,3 +115,14 @@ Overall I was able to recal 90% of the app from memory but I still have some gap
 **Thoughts:**
 
 I was not feeling well today so I was not able to be as productive as I wanted to. I will finish seeding the data and finish the components for airbnb tomorrow.
+
+### Day 9: May 20, 2020
+
+**Today's Progress**:
+
+- 1 Leetcode problem solved. (1313. Decompress Run-Length Encoded List)
+- Worked on the styled components of the pop-ups in my Airbnb project.
+
+**Thoughts:**
+
+I had a productive day of working on the airbnb project. I want to review how I'm organizing my files and get advice on how I can understand html/css hierarchy better.
