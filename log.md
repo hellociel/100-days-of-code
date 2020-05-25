@@ -105,7 +105,7 @@ I'm gonna try again to make sure I understand and can utilized every line of cod
 
 Overall I was able to recal 90% of the app from memory but I still have some gaps in memory for onSubmit/onChange event handlers. I hope to review them and fix the CORS error tomorrow.
 
-### Day 9: May 20, 2020
+### Day 9: May 21, 2020
 
 **Today's Progress**:
 
@@ -116,7 +116,7 @@ Overall I was able to recal 90% of the app from memory but I still have some gap
 
 I was not feeling well today so I was not able to be as productive as I wanted to. I will finish seeding the data and finish the components for airbnb tomorrow.
 
-### Day 9: May 20, 2020
+### Day 10: May 22, 2020
 
 **Today's Progress**:
 
@@ -126,3 +126,25 @@ I was not feeling well today so I was not able to be as productive as I wanted t
 **Thoughts:**
 
 I had a productive day of working on the airbnb project. I want to review how I'm organizing my files and get advice on how I can understand html/css hierarchy better.
+
+### Day 11: May 23, 2020
+
+**Today's Progress**:
+
+- 1 Leetcode problem solved. (Number of Students Doing Homework at a Given Time)
+- Worked with Alex to debug mysql problem.
+
+**Thoughts:**
+
+I couldn't be as productive since I had to be out for a while due to movers being at home.
+
+### Day 12: May 24, 2020
+
+**Today's Progress**:
+
+- 1 Leetcode problem solved. (Subtract the Product and Sum of Digits of an Integer)
+- Worked on connecting client-server-db and rendering images dynamically.
+
+**Thoughts:**
+
+I couldn't start working until 3pm because I felt really sick. I think resting helped a lot and I was able to be super productive today. I connected client-server-db with Swan's help. I'm going to finish up most of my FEC tomorrow so we can move on to backend.
