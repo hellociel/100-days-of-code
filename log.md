@@ -148,3 +148,14 @@ I couldn't be as productive since I had to be out for a while due to movers bein
 **Thoughts:**
 
 I couldn't start working until 3pm because I felt really sick. I think resting helped a lot and I was able to be super productive today. I connected client-server-db with Swan's help. I'm going to finish up most of my FEC tomorrow so we can move on to backend.
+
+### Day 13: May 25, 2020
+
+**Today's Progress**:
+
+- One #Leetcode question done!
+- Airbnb clone project is now rendering images from the database dynamically.
+
+**Thoughts:**
+
+Productive day today! :D
