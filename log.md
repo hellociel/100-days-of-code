@@ -159,3 +159,17 @@ I couldn't start working until 3pm because I felt really sick. I think resting h
 **Thoughts:**
 
 Productive day today! :D
+
+### Day 14: May 26, 2020
+
+**Today's Progress**:
+
+- Airbnb clone project is now looking very similar to the real one!!!
+  -Cleaned up my functions :D
+
+**Thoughts:**
+
+- Need to work on tomorrow:
+
+1. separate the components into three parts
+2. Study modals and implement them correctly
