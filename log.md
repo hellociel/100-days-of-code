@@ -173,3 +173,32 @@ Productive day today! :D
 
 1. separate the components into three parts
 2. Study modals and implement them correctly
+
+### Day 15: May 27, 2020
+
+**Today's Progress**:
+
+- Learned about XOR
+  https://www.google.com/search?q=XOR&rlz=1C5CHFA_enUS901US901&oq=XOR&aqs=chrome..69i57j0l7.381j0j7&sourceid=chrome&ie=UTF-8
+
+**Thoughts:**
+
+- Need to work on tomorrow:
+
+1. separate the components into three parts
+2. Study modals and implement them correctly
+
+### Day 16: May 28, 2020
+
+**Today's Progress**:
+
+- The image gallery on the pop up modal of my airbnb project is rendering nicely using grid in css Grinning face with smiling eyes
+- I was able to successfully separate my project into three components!
+
+**Thoughts:**
+
+Tomorrow:
+
+- review "componentDidMount()"
+- Try for 2 leetcode questions
+- finish searchbar modals
