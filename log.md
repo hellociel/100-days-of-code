@@ -202,3 +202,14 @@ Tomorrow:
 - review "componentDidMount()"
 - Try for 2 leetcode questions
 - finish searchbar modals
+
+### Day 17: May 30, 2020
+
+**Today's Progress**:
+
+- Spent the entire day refactoring my code and fixing one bug, super exhausting!!!
+- finished one #leetcode problem that taught me about #ASCII code!
+
+**Thoughts:**
+
+- Note to self: never skip a meal to try to fix a bug! Exercise, eat healthy at the right time, sleep well and meditate.
