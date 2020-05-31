@@ -213,3 +213,14 @@ Tomorrow:
 **Thoughts:**
 
 - Note to self: never skip a meal to try to fix a bug! Exercise, eat healthy at the right time, sleep well and meditate.
+
+### Day 18: May 30, 2020
+
+**Today's Progress**:
+
+- Had a productive morning session with a mock #frontend test.
+- Little progress on my airbnb project today as I was exhausted form the morning session.
+
+**Thoughts:**
+
+- Take full breaks to rest and recover, do not just keep going, you will be less productive at the end!
