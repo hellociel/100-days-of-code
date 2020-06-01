@@ -224,3 +224,13 @@ Tomorrow:
 **Thoughts:**
 
 - Take full breaks to rest and recover, do not just keep going, you will be less productive at the end!
+
+### Day 19: May 31, 2020
+
+**Today's Progress**:
+
+- Had a productive day working on airbnb project but could've been more productive.
+
+**Thoughts:**
+
+- After this project is done, I would love to revisit my code to condense it. It seems a bit too redundant right now.
