@@ -234,3 +234,15 @@ Tomorrow:
 **Thoughts:**
 
 - After this project is done, I would love to revisit my code to condense it. It seems a bit too redundant right now.
+
+### Day 20: May 31, 2020
+
+**Today's Progress**:
+
+- Learned about mongoDB today.
+- Worked on my personal project.
+
+**Thoughts:**
+
+- Today I realized everyone has different definition of "understanding". I'm currently working on a lot of things at once and I'm hoping to focus on one thing. To finish my airbnb project by this week and have it running on my personal website I will make from a template.
+  Keep being motivated and keep working hard. Only I know how hard I'm working! :)
