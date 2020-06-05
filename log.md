@@ -203,7 +203,7 @@ Tomorrow:
 - Try for 2 leetcode questions
 - finish searchbar modals
 
-### Day 17: May 30, 2020
+### Day 17: June 1, 2020
 
 **Today's Progress**:
 
@@ -214,7 +214,7 @@ Tomorrow:
 
 - Note to self: never skip a meal to try to fix a bug! Exercise, eat healthy at the right time, sleep well and meditate.
 
-### Day 18: May 30, 2020
+### Day 18: June 2, 2020
 
 **Today's Progress**:
 
@@ -225,7 +225,7 @@ Tomorrow:
 
 - Take full breaks to rest and recover, do not just keep going, you will be less productive at the end!
 
-### Day 19: May 31, 2020
+### Day 19: June 3, 2020
 
 **Today's Progress**:
 
@@ -235,7 +235,7 @@ Tomorrow:
 
 - After this project is done, I would love to revisit my code to condense it. It seems a bit too redundant right now.
 
-### Day 20: May 31, 2020
+### Day 20: June 4, 2020
 
 **Today's Progress**:
 
@@ -246,13 +246,14 @@ Tomorrow:
 
 - Today I realized everyone has different definition of "understanding". I'm currently working on a lot of things at once and I'm hoping to focus on one thing. To finish my airbnb project by this week and have it running on my personal website I will make from a template.
   Keep being motivated and keep working hard. Only I know how hard I'm working! :)
-  ### Day 21: May 31, 2020
+  ### Day 21: June 5, 2020
 
 **Today's Progress**:
 
-- Finished one backend mock test with some help.
-- Redid one frontend mock test without referencing any docs.
+- Redid the backend mock test without referencing any docs.
+- Attempted the fullstack mock test. I will review this again tomorrow.
+- Worked on precourse.
 
 **Thoughts:**
 
-- Had a productive day! cant wait to start precourse tomorrow with doing more mocktests to practice. Let's go!
+Keep myself motivated, it's a marathon not a sprint!
