@@ -269,3 +269,13 @@ Keep myself motivated, it's a marathon not a sprint!
 **Thoughts:**
 
 Excited about learning new things everyday. Gotta focus on moving on and being comfortable with not knowing everything.
+
+### Day 24: June 6, 2020
+
+**Today's Progress**:
+
+- I spent the entire day working on a mini app that generates horoscope readings. I'm excited to finally connect frontend to backend and finish up the project tomorrow!rrow I'm going to review the backend part of the mini app and redo it from scratch.
+
+**Thoughts:**
+
+I did a great job balancing my day today. I was super productive this morning only trying to focus on the functional part of my components. Then I spent a few hours making my app pretty with css then now I'm thinking about how to use UX best practices to make sure my app is user-friendly. Tomorrow I'm planning on finishing up this app and hopefully finishing up Testbuilder
