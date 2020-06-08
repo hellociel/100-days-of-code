@@ -279,3 +279,13 @@ Excited about learning new things everyday. Gotta focus on moving on and being c
 **Thoughts:**
 
 I did a great job balancing my day today. I was super productive this morning only trying to focus on the functional part of my components. Then I spent a few hours making my app pretty with css then now I'm thinking about how to use UX best practices to make sure my app is user-friendly. Tomorrow I'm planning on finishing up this app and hopefully finishing up Testbuilder
+
+### Day 25: June 7, 2020
+
+**Today's Progress**:
+
+- Working on my horoscope app to make #http requests to my #mysql database. I'm planning to get basic app finished by tomorrow.
+
+**Thoughts:**
+
+- I had bad migraine so I couldnt be more productive. I'm going to get some good rest so I can get back to my normal routine.
