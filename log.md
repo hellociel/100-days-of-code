@@ -289,3 +289,13 @@ I did a great job balancing my day today. I was super productive this morning on
 **Thoughts:**
 
 - I had bad migraine so I couldnt be more productive. I'm going to get some good rest so I can get back to my normal routine.
+
+### Day 26: June 8, 2020
+
+**Today's Progress**:
+
+- Made a lot of css adjustments and reorganized the user-flow of my horoscope app. Excited to finish this project up tomorrow! :D
+
+**Thoughts:**
+
+- I can be more productive this week. Now that all the userflow is organized, I'm going to make all the functions work and finish the app up tomorrow.
