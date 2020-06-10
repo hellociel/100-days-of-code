@@ -299,3 +299,13 @@ I did a great job balancing my day today. I was super productive this morning on
 **Thoughts:**
 
 - I can be more productive this week. Now that all the userflow is organized, I'm going to make all the functions work and finish the app up tomorrow.
+
+### Day 27: June 9, 2020
+
+**Today's Progress**:
+
+- I was able to get all of the grid of images work as buttons and made it look pretty but I still need to make some finishing touches. Tomorrow will be the day! :D
+
+**Thoughts:**
+
+- Because of unexpected schedule change, i was not able to finish the app. I'm going to put eveyrthing tomrrow to finish up!!!
