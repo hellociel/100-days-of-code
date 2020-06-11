@@ -309,3 +309,13 @@ I did a great job balancing my day today. I was super productive this morning on
 **Thoughts:**
 
 - Because of unexpected schedule change, i was not able to finish the app. I'm going to put eveyrthing tomrrow to finish up!!!
+
+### Day 27: June 10, 2020
+
+**Today's Progress**:
+
+- Worked on precourse part 1 today.
+
+**Thoughts:**
+
+- It's hard to stay motivated this week because of schedule changes, but I'm pushing myself hard to keep things moving. Hoping to make more progress by this weekend.
