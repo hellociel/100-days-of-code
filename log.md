@@ -319,3 +319,14 @@ I did a great job balancing my day today. I was super productive this morning on
 **Thoughts:**
 
 - It's hard to stay motivated this week because of schedule changes, but I'm pushing myself hard to keep things moving. Hoping to make more progress by this weekend.
+
+### Day 28: June 10, 2020
+
+**Today's Progress**:
+
+- Finished 1/3 of precourse today.
+- Can't wait to go back to working on my personal projects tomorrow!
+
+**Thoughts:**
+
+- Precourse is taking longer than I thought but I'm excited to finish as much as possible this week so I don't have to worry about it next week.
