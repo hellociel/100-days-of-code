@@ -320,7 +320,7 @@ I did a great job balancing my day today. I was super productive this morning on
 
 - It's hard to stay motivated this week because of schedule changes, but I'm pushing myself hard to keep things moving. Hoping to make more progress by this weekend.
 
-### Day 28: June 10, 2020
+### Day 28: June 11, 2020
 
 **Today's Progress**:
 
@@ -330,3 +330,14 @@ I did a great job balancing my day today. I was super productive this morning on
 **Thoughts:**
 
 - Precourse is taking longer than I thought but I'm excited to finish as much as possible this week so I don't have to worry about it next week.
+
+### Day 29: June 12, 2020
+
+**Today's Progress**:
+
+- All of my mini app's drop down menus, buttons and pop ups are rendering correctly.
+- Currently working on how to effectively grab data from the database and sort them.
+
+**Thoughts:**
+
+Tomorrow I'm really going to finish my mini app and move on to my next project. Let's git it! :D
