@@ -341,3 +341,13 @@ I did a great job balancing my day today. I was super productive this morning on
 **Thoughts:**
 
 Tomorrow I'm really going to finish my mini app and move on to my next project. Let's git it! :D
+
+### Day 29: June 12, 2020
+
+**Today's Progress**:
+
+- Reviewed basics of #jQuery and started making a mini #twitter clone!
+
+  **Thoughts:**
+
+I've been reflecting on when I first started studying coding. I knew it was going to be a hard journey but it's about 382640 times harder. Thank god I still love to code!!!
