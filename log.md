@@ -342,7 +342,7 @@ I did a great job balancing my day today. I was super productive this morning on
 
 Tomorrow I'm really going to finish my mini app and move on to my next project. Let's git it! :D
 
-### Day 29: June 12, 2020
+### Day 30: June 13, 2020
 
 **Today's Progress**:
 
@@ -351,3 +351,15 @@ Tomorrow I'm really going to finish my mini app and move on to my next project. 
   **Thoughts:**
 
 I've been reflecting on when I first started studying coding. I knew it was going to be a hard journey but it's about 382640 times harder. Thank god I still love to code!!!
+
+### Day 31: June 14, 2020
+
+**Today's Progress**:
+
+- Happy one month anniversary of my 100 Days Of Code!
+- I've finished all of the logics and functions for my mini #twitter clone using #jQuery in 2 hours!
+- Tomorrow is a CSS day!✨
+
+  **Thoughts:**
+
+Despite only spending 2 hours of coding, I'm proud of myself for getting through all the logics of my mini project. I'm excited to finish this up tomorrow and move on to other small projects I couldn't finish. Lets git it!
