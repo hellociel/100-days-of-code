@@ -364,7 +364,7 @@ I've been reflecting on when I first started studying coding. I knew it was goin
 
 Despite only spending 2 hours of coding, I'm proud of myself for getting through all the logics of my mini project. I'm excited to finish this up tomorrow and move on to other small projects I couldn't finish. Lets git it!
 
-### Day 31: June 14, 2020
+### Day 31: June 15, 2020
 
 **Today's Progress**:
 
