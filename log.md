@@ -363,3 +363,14 @@ I've been reflecting on when I first started studying coding. I knew it was goin
   **Thoughts:**
 
 Despite only spending 2 hours of coding, I'm proud of myself for getting through all the logics of my mini project. I'm excited to finish this up tomorrow and move on to other small projects I couldn't finish. Lets git it!
+
+### Day 31: June 14, 2020
+
+**Today's Progress**:
+
+- Today was a rough day as I spent many hours in bed feeling under the weather. 😩
+- But I was able to finish my mini twitter clone and finish 2/3 of my precourse! Yay! ✨
+
+**Thoughts:**
+
+Feeling sick is not fun. I'm going to make sure I take good rest.
