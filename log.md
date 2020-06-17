@@ -364,7 +364,7 @@ I've been reflecting on when I first started studying coding. I knew it was goin
 
 Despite only spending 2 hours of coding, I'm proud of myself for getting through all the logics of my mini project. I'm excited to finish this up tomorrow and move on to other small projects I couldn't finish. Lets git it!
 
-### Day 31: June 15, 2020
+### Day 32: June 15, 2020
 
 **Today's Progress**:
 
@@ -374,3 +374,13 @@ Despite only spending 2 hours of coding, I'm proud of myself for getting through
 **Thoughts:**
 
 Feeling sick is not fun. I'm going to make sure I take good rest.
+
+### Day 33: June 16, 2020
+
+**Today's Progress**:
+
+- I finished the pre-course today. White heavy check mark
+- Tomorrow I'm traveling to #Portland, #Oregon! Hope I get to code at night for a little bit.
+  **Thoughts:**
+
+Feeling super unproductive today... I think I need to work out.
