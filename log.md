@@ -384,3 +384,14 @@ Feeling sick is not fun. I'm going to make sure I take good rest.
   **Thoughts:**
 
 Feeling super unproductive today... I think I need to work out.
+
+### Day 34 & 35: June 16 & 17, 2020
+
+**Today's Progress**:
+
+- Worked on my personal website and my resume.
+- Super motivated to work on practice assessments tomorrow. Yay weekend coding!
+
+  **Thoughts:**
+
+Struggled a lot due to allergies these past few days but I'm going to be more productive this weekend!
