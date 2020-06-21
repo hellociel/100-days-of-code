@@ -395,3 +395,13 @@ Feeling super unproductive today... I think I need to work out.
   **Thoughts:**
 
 Struggled a lot due to allergies these past few days but I'm going to be more productive this weekend!
+
+### Day 36: June 20, 2020
+
+**Today's Progress**:
+
+-I studied a practice test today. Tomorrow I'm going to go through it one more time. Super motivated to work on practice assessments tomorrow. Yay weekend coding!
+
+**Thoughts:**
+
+Tomorrow morning I'm attempting to do the practice test once again. Let's git it!
