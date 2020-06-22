@@ -405,3 +405,13 @@ Struggled a lot due to allergies these past few days but I'm going to be more pr
 **Thoughts:**
 
 Tomorrow morning I'm attempting to do the practice test once again. Let's git it!
+
+### Day 37: June 21, 2020
+
+**Today's Progress**:
+
+- Studied the practice test that makes a fullstack web application using MERN stack.
+
+**Thoughts:**
+
+- I'm pretty lost in how to study req/res cycle in an easier way. Tomorrow I'm going to read some official docs.
