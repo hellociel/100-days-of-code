@@ -415,3 +415,14 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 **Thoughts:**
 
 - I'm pretty lost in how to study req/res cycle in an easier way. Tomorrow I'm going to read some official docs.
+
+### Day 38: June 22, 2020
+
+**Today's Progress**:
+
+- Studied express fundamentals and overall javascript basics.
+  -Personal website has a resume page updated.
+
+**Thoughts:**
+
+- I started target studying on my weak points and it feels great. I'm going to make sure I keep this pace.
