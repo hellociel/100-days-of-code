@@ -426,3 +426,14 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 **Thoughts:**
 
 - I started target studying on my weak points and it feels great. I'm going to make sure I keep this pace.
+
+### Day 39: June 23, 2020
+
+**Today's Progress**:
+
+- Studied more JS basics and officially finished precourse.
+- Finishing up personal projects this week.
+
+**Thoughts:**
+
+- feeling motivated again to study hard and improve my personal weaknesses. I'm going to finish my personal projects this week and get ready for a new cohort soon.
