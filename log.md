@@ -437,3 +437,14 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 **Thoughts:**
 
 - feeling motivated again to study hard and improve my personal weaknesses. I'm going to finish my personal projects this week and get ready for a new cohort soon.
+
+### Day 40: June 24, 2020
+
+**Today's Progress**:
+
+- One #leetcode problem that I was overthinking when the answer was right in front of me!
+- Making progress in finishing up my projects this week.
+
+**Thoughts:**
+
+- Workout definitely helps me to be more focused!
