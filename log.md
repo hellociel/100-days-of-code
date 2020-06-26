@@ -448,3 +448,14 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 **Thoughts:**
 
 - Workout definitely helps me to be more focused!
+
+### Day 41: June 25, 2020
+
+**Today's Progress**:
+
+- Finished one #leetcode problem!
+- Studied some fullstack code.
+
+**Thoughts:**
+
+- I'm planning on working on the fullstack app tomorrow.
