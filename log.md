@@ -459,3 +459,14 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 **Thoughts:**
 
 - I'm planning on working on the fullstack app tomorrow.
+
+### Day 42: June 26, 2020
+
+**Today's Progress**:
+
+- One #leetcode problem done!
+- Studied #javascript basics :D
+
+**Thoughts:**
+
+-Let's spend the weekend really finishing a fullstack project.
