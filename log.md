@@ -470,3 +470,13 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 **Thoughts:**
 
 -Let's spend the weekend really finishing a fullstack project.
+
+### Day 43: June 27, 2020
+
+**Today's Progress**:
+
+- One #leetcode problem I'm still thinking about..
+- Studied #node basics :D
+
+**Thoughts:**
+Review review review, study study study!
