@@ -480,3 +480,25 @@ Tomorrow morning I'm attempting to do the practice test once again. Let's git it
 
 **Thoughts:**
 Review review review, study study study!
+
+### Day 44: June 28, 2020
+
+**Today's Progress**:
+
+- One #leetcode problem finsihed!
+- Studied #node & #javascript basics.
+- Prepared for day 1 tomorrow!
+
+**Thoughts:**
+Be calm, take things slowly but be dilligent and never myself leave gaps in my knowledge.
+
+### Day 45: June 29, 2020
+
+**Today's Progress**:
+
+- One #leetcode problem I'm stuck with.
+- Day 1 of a short but intense journey.
+- Pair programmed two recursion problems.
+
+**Thoughts:**
+New beginning of a journey. Excited to start.
