@@ -502,3 +502,14 @@ Be calm, take things slowly but be dilligent and never myself leave gaps in my k
 
 **Thoughts:**
 New beginning of a journey. Excited to start.
+
+### Day 46: June 30, 2020
+
+**Today's Progress**:
+
+- Redid yesterday's sprint in 30 min with 90% done.
+- Day 2 of a short but intense journey.
+- Pair programmed js problems.
+
+**Thoughts:**
+review review review!
