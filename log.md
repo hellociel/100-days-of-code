@@ -513,3 +513,13 @@ New beginning of a journey. Excited to start.
 
 **Thoughts:**
 review review review!
+
+### Day 47: July 1, 2020
+
+**Today's Progress**:
+
+- worked on instantiation styles.
+- took the first self assessment,
+
+**Thoughts:**
+Do not get distracted! get shit done!
