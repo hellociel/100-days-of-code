@@ -523,3 +523,13 @@ review review review!
 
 **Thoughts:**
 Do not get distracted! get shit done!
+
+### Day 48 & 49: July 2, 3, 2020
+
+**Today's Progress**:
+
+- Studied and worked on #data structures and #algorithms .
+- Reviewed self assessment.
+
+**Thoughts:**
+Let's review week 1 and get back into the studying mode. :)
