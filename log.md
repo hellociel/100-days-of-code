@@ -533,3 +533,12 @@ Do not get distracted! get shit done!
 
 **Thoughts:**
 Let's review week 1 and get back into the studying mode. :)
+
+### Day 50, 51: July 4, 5, 2020
+
+**Today's Progress**:
+
+- Reviewed problem solving approaches.
+
+**Thoughts:**
+Full week ahead! let's do this!
