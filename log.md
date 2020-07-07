@@ -542,3 +542,13 @@ Let's review week 1 and get back into the studying mode. :)
 
 **Thoughts:**
 Full week ahead! let's do this!
+
+### Day 52: July 6, 2020
+
+**Today's Progress**:
+
+- Implemented #graph #datastructure.
+- Learned about function binding and the 'this' variable in javascript.
+
+**Thoughts:**
+Focus focus focus. I have everything I need in my head.
