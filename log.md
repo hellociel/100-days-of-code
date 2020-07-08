@@ -552,3 +552,14 @@ Full week ahead! let's do this!
 
 **Thoughts:**
 Focus focus focus. I have everything I need in my head.
+
+### Day 53: July 7, 2020
+
+**Today's Progress**:
+
+- Implemented #set, #binarysearchtree in #datastructure.
+- Learned about #recursion, #scope and setTimeout()
+
+**Thoughts:**
+
+Practice practice practice. muscle memory first then deep understanding.
