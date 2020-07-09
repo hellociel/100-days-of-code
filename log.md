@@ -563,3 +563,14 @@ Focus focus focus. I have everything I need in my head.
 **Thoughts:**
 
 Practice practice practice. muscle memory first then deep understanding.
+
+### Day 54: July 8, 2020
+
+**Today's Progress**:
+
+- Inheritance pattern study
+- Working on jquery project
+
+**Thoughts:**
+
+- Ask for help when stuck.
