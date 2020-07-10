@@ -574,3 +574,14 @@ Practice practice practice. muscle memory first then deep understanding.
 **Thoughts:**
 
 - Ask for help when stuck.
+
+### Day 55: July 9, 2020
+
+**Today's Progress**:
+
+- Studied different jquery effects.
+- Finished the #jquery project!!
+
+**Thoughts:**
+
+- keep up the good work!! workout!
