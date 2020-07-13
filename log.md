@@ -585,3 +585,15 @@ Practice practice practice. muscle memory first then deep understanding.
 **Thoughts:**
 
 - keep up the good work!! workout!
+
+
+### Day 56 & 57: July 12, 2020
+
+**Today's Progress**:
+
+- Worked on nQueens project, reviewing the solution video.
+- Reviewed rockPaperScissors problem.
+
+**Thoughts:**
+
+- Need to review more: putting my idea into manageable steps.
