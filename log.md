@@ -597,3 +597,16 @@ Practice practice practice. muscle memory first then deep understanding.
 **Thoughts:**
 
 - Need to review more: putting my idea into manageable steps.
+
+
+
+### Day 58: July 14, 2020
+
+**Today's Progress**:
+
+- Studied #frontend concept today.
+- Worked on #chatterbox
+
+
+**Thoughts:**
+- Need to review more: finalizing recursion functions.s
