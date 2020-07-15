@@ -600,7 +600,7 @@ Practice practice practice. muscle memory first then deep understanding.
 
 
 
-### Day 58: July 14, 2020
+### Day 58: July 13, 2020
 
 **Today's Progress**:
 
@@ -609,4 +609,16 @@ Practice practice practice. muscle memory first then deep understanding.
 
 
 **Thoughts:**
-- Need to review more: finalizing recursion functions.s
+- Need to review more: finalizing recursion functions.
+
+
+### Day 59: July 14, 2020
+
+**Today's Progress**:
+
+- Finished our #chatterbox sprint!
+- Learned about #eventhandlers.
+
+
+**Thoughts:**
+- Need to review more: Inheritance patterns.
