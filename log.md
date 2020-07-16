@@ -622,3 +622,16 @@ Practice practice practice. muscle memory first then deep understanding.
 
 **Thoughts:**
 - Need to review more: Inheritance patterns.
+
+
+### Day 59: July 14, 2020
+
+**Today's Progress**:
+
+- Started our #recastly sprint!
+- Learned about how to change functional components into class components and not break anything. 
+
+
+**Thoughts:**
+- Need to review more: Inheritance patterns.
+
