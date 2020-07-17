@@ -624,7 +624,7 @@ Practice practice practice. muscle memory first then deep understanding.
 - Need to review more: Inheritance patterns.
 
 
-### Day 59: July 14, 2020
+### Day 60: July 15, 2020
 
 **Today's Progress**:
 
@@ -633,5 +633,20 @@ Practice practice practice. muscle memory first then deep understanding.
 
 
 **Thoughts:**
-- Need to review more: Inheritance patterns.
+- Study everyday as if it's my first day of learning.
+
+
+
+
+### Day 61: July 16, 2020
+
+**Today's Progress**:
+
+
+- Finished the #recastly sprint!
+- Lesson of the day: Don't invoke a function when the event handler is expecting a callback function! :D
+
+**Thoughts:**
+- Study everyday as if it's my first day of learning.
+
 
