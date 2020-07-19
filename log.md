@@ -647,6 +647,4 @@ Practice practice practice. muscle memory first then deep understanding.
 - Lesson of the day: Don't invoke a function when the event handler is expecting a callback function! :D
 
 **Thoughts:**
-- Study everyday as if it's my first day of learning.
-
-
+- Day 1 Day 1!!!
