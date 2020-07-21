@@ -648,3 +648,30 @@ Practice practice practice. muscle memory first then deep understanding.
 
 **Thoughts:**
 - Day 1 Day 1!!!
+
+
+
+### Day 62 & 63: July 17, 18, 2020
+
+**Today's Progress**:
+
+
+- Worked on  the #asyncswim sprint for two days!
+- Server and #node is pretty hard.
+- Tomorrow I'm going to review all of the SA's,  and toy problems. 
+
+**Thoughts:**
+- "Success consists of going from failure to failure without loss of enthusiasm."
+
+
+### Day 64: July 20, 2020
+
+**Today's Progress**:
+
+- Started the #CRUDdytodo sprint!
+- Learned about how to work with #asynchronous functions and error first call back patterns.
+
+**Thoughts:**
+- "Success consists of going from failure to failure without loss of enthusiasm."
+
+
